@@ -35,6 +35,7 @@ const grades = ['47', '100', '21']
   for (let i = 0; i < grades.length; i += 1) {
     
     console.log(grades[i]);
+    console.log();
   }
 
   // среднее арифметическое
