@@ -43,8 +43,10 @@ const grades = ['47', '100', '21']
 
   let person = {
 
-    name: name,
-    age: ,
-    grades:
+  name: Object [name] = "TSUKASA" ,
+  age: number ,
+  grades: i
 
   }
+
+  console.log(person)
